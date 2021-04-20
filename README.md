@@ -19,3 +19,7 @@ __Disentanglement__
 4. Prabhumoye, S., Tsvetkov, Y., Salakhutdinov, R., & Black, A. W. __Style transfer through back-translation__. ACL 2018. [pdf](https://arxiv.org/pdf/1804.09000.pdf)
 
     Cycle consistency, Machine translation
+
+5. John, V., Mou, L., Bahuleyan, H., & Vechtomova, O. __Disentangled representation learning for non-parallel text style transfer.__ ACL 2019. [pdf](https://arxiv.org/pdf/1808.04339.pdf)
+
+    GRU, Content-oriented loss (Distribution of content)
