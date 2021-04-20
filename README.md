@@ -18,4 +18,4 @@ __Disentanglement__
 
 4. Prabhumoye, S., Tsvetkov, Y., Salakhutdinov, R., & Black, A. W. __Style transfer through back-translation__. ACL 2018. [pdf](https://arxiv.org/pdf/1804.09000.pdf)
 
-    Cycle consistency
+    Cycle consistency, Machine translation
