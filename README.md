@@ -2,7 +2,7 @@
 
 Author, Title, Conference, Date
 -------------------------------------------------------------
-Disentanglement
+__Disentanglement__
 
 1. Shen, T., Lei, T., Barzilay, R., & Jaakkola, T. Style Transfer from Non-Parallel Text by Cross-Alignment. NIPS 2017. [pdf](http://www.cs.cmu.edu/~jeanoh/16-785/papers/shen-N2017-style.pdf)
 
