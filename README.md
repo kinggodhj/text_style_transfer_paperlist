@@ -23,3 +23,8 @@ __Disentanglement__
 5. John, V., Mou, L., Bahuleyan, H., & Vechtomova, O. __Disentangled representation learning for non-parallel text style transfer.__ ACL 2019. [pdf](https://arxiv.org/pdf/1808.04339.pdf)
 
     GRU, Content-oriented loss (Distribution of content)
+
+
+6. Sudhakar, A., Upadhyay, B., & Maheswaran, A. __Transforming delete, retrieve, generate approach for controlled text style transfer.__ EMNLP 2019. [pdf](https://arxiv.org/pdf/1908.09368.pdf) 
+
+    Pretrained-BERT, Attribute marker
