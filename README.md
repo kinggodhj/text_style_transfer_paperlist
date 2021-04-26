@@ -28,3 +28,10 @@ __Disentanglement__
 6. Sudhakar, A., Upadhyay, B., & Maheswaran, A. __Transforming delete, retrieve, generate approach for controlled text style transfer.__ EMNLP 2019. [pdf](https://arxiv.org/pdf/1908.09368.pdf) 
 
     Pretrained-BERT, Attribute marker
+
+-------------------------------------------------------------
+__Not using disentanglement__
+
+Dai, N., Liang, J., Qiu, X., & Huang, X. __Style transformer: Unpaired text style transfer without disentangled latent representation.__ ACL 2019.[pdf](https://arxiv.org/pdf/1905.05621.pdf)
+    
+    Transforemer, back-translation loss (cycle loss)
